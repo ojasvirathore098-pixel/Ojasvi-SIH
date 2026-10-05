@@ -1,6 +1,9 @@
 # Ojasvi-SIH
 SIH26251= Indian Army - Predictive Logistics & Forward Supply Chain.
+
 Prototype = https://predictive-logistics-intelligence--PAYAL722007.replit.app/
+
+
 Key Features
 - 🤖 AI-Based Demand Forecasting — Predict future requirements using historical consumption, inventory and operational data.
 - 📦 Smart Inventory Management — Real-time monitoring of stock levels, consumption rates, reorder points and critical supplies.
@@ -14,6 +17,8 @@ Key Features
 - 🔔 Intelligent Alerts & Notifications — Generate alerts for low inventory, abnormal consumption, route disruptions and predicted shortages.
 - 📈 Data-Driven Decision Support — Convert multiple data streams into actionable logistics recommendations.
 - 🔐 Secure & Role-Based Access — Protect sensitive logistics information through authentication and role-based permissions.
+
+  
 TEAM:
 Paawani Sharma
 Ojasvi Rathore
