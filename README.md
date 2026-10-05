@@ -1,19 +1,18 @@
 # Ojasvi-SIH
-AI Based Smart Logistics and Accessibility Intelligence Platform for North Eastern Region (NER) - SIH 2026 Prototype
-https://youtu.be/gSYtheLLNr8?si=BRt7vGu3qlAFpoac
-KEY FEATURES:
-🚛 1. Real-Time Logistics Monitoring
-Centralized dashboard for monitoring transportation operations
-Live visibility of routes, vehicles, shipments, and operational status
-Helps identify delays and bottlenecks quickly
-🧠 2. AI-Powered Route & Decision Support
-Uses AI to analyze logistics data and support route/transport decisions
-Helps identify efficient routes and respond to operational issues
-Designed to work effectively in low-network environments, which is particularly relevant to the North-Eastern Region
-📊 3. Unified Command & Analytics Dashboard
-Brings logistics information into a single command center
-Provides key operational metrics, alerts, and visual analytics
-Enables authorities/operators to monitor multiple transportation activities from one interface
+SIH26251= Indian Army - Predictive Logistics & Forward Supply Chain.
+Key Features
+- 🤖 AI-Based Demand Forecasting — Predict future requirements using historical consumption, inventory and operational data.
+- 📦 Smart Inventory Management — Real-time monitoring of stock levels, consumption rates, reorder points and critical supplies.
+- 🗺️ GIS-Enabled Route Optimization — Identify efficient supply routes considering distance, terrain, road conditions and accessibility.
+- 🌦️ Weather-Aware Logistics Planning — Incorporate weather and environmental conditions into supply and transportation decisions.
+- 🚛 Predictive Transportation Planning — Optimize vehicle allocation, transportation capacity and delivery schedules.
+- 📡 IoT-Based Inventory Tracking — Track inventory movement and storage conditions using IoT-enabled monitoring.
+- ⚠️ Shortage & Risk Prediction — Detect potential stockouts, delayed deliveries and supply-chain bottlenecks before they occur.
+- 📊 Centralized Logistics Dashboard — Provide commanders/logistics personnel with real-time KPIs, inventory status, routes and alerts.
+- 🔄 Dynamic Supply Chain Optimization — Continuously adapt supply plans based on changing demand, inventory and operational conditions.
+- 🔔 Intelligent Alerts & Notifications — Generate alerts for low inventory, abnormal consumption, route disruptions and predicted shortages.
+- 📈 Data-Driven Decision Support — Convert multiple data streams into actionable logistics recommendations.
+- 🔐 Secure & Role-Based Access — Protect sensitive logistics information through authentication and role-based permissions.
 TEAM:
 Paawani Sharma
 Ojasvi Rathore
